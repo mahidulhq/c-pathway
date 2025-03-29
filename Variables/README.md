@@ -1,5 +1,3 @@
-# Understanding Variables in C
-
 ## Variable Types
 In C, different types of variables are used to store different kinds of data:
 
